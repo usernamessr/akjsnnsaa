@@ -14,5 +14,5 @@
  *       limitations under the License.
  */
 
-include ':start', ':complete'
+include  ':complete'
 rootProject.name='Optimized For Chrome OS'
